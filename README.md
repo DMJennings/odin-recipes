@@ -1,1 +1,1 @@
-# odin-recipes
+This is my second time doing this project as I am restarting TOP. I am looking forward to being able to move through this project rather quickly as most of the information I have been going over has been a refresher and came back pretty easily. With this project I would like to show how organized I can truly be with my code and my commit messages.
