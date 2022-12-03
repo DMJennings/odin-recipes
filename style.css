@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(221, 181, 128);
+    font-family: "Times New Roman", sans-serif;
+}
+.title {
+    font-size: 150px;
+    text-align: center;
+}
+
+.recipe-links {
+    font-size: 48px;
+    text-align: center;
+    color: black;
+}
+.description {
+    text-align: center;
+    font-weight: 500;
+    color:rgb(47, 85, 85);
+    font-size: 60px;
+}
+.milk {
+    height: auto;
+    width: 400px;
+    
+}
+.directions {
+    text-align: center;
+}
